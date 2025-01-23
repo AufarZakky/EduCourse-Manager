@@ -7,7 +7,7 @@ Ikuti langkah-langkah berikut untuk meng-clone dan menjalankan proyek ini di kom
 Clone repositori dari GitHub:
 
 ```bash
-1. git clone https://github.com/AufarZakky/EduCourse-Manager.git
+1. buka cmd dan ketik git clone https://github.com/AufarZakky/EduCourse-Manager.git
 2. Masuk folder tersebut menggunakan vscode
 3. Install depedensi php dalam terminal (composser install & npm install)
 4. buat file baru bernama .env
